@@ -1,5 +1,4 @@
 const Coins = require('../utils/coins');
-const validator = require('validator');
 const fs = require('fs');
 
 
