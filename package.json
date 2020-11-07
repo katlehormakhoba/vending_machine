@@ -15,7 +15,6 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "gitignore": "^0.6.0",
-    "morgan": "^1.10.0",
-    "validator": "^13.1.17"
+    "morgan": "^1.10.0"
   }
 }
