@@ -1,0 +1,21 @@
+{
+  "name": "bookingjs",
+  "version": "1.0.0",
+  "description": "Making API for vending machine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "start:dev": "nodemon server",
+    "start:prod": "SET NODE_ENV=production && nodemon server"
+  },
+  "author": "Katleho R. Makhoba",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "gitignore": "^0.6.0",
+    "morgan": "^1.10.0",
+    "validator": "^13.1.17"
+  }
+}

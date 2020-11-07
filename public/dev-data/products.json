@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "nick nacks",
+        "quantity": 5,
+        "type": "snakes",
+        "price": 2  
+    },
+    {
+        "id": 1,
+        "name": "launch bar",
+        "quantity": 5,
+        "type": "choc-bar",
+        "price": 2  
+    },
+    {
+        "id": 2,
+        "name": "grape juice",
+        "quantity": 5,
+        "type": "juice",
+        "price": 16 
+    },
+    {
+        "id": 3,
+        "name": "coca cola",
+        "quantity": 5,
+        "type": "can",
+        "price": 15 
+    },
+    {
+        "id": 4,
+        "name": "gummy bears",
+        "quantity": 5,
+        "type": "sweets",
+        "price": 10 
+    },
+    {
+        "id": 5,
+        "name": "jelly beans",
+        "quantity": 3,
+        "type": "sweets",
+        "price": 8  
+    }
+]
