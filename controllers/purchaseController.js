@@ -23,6 +23,15 @@ const data = JSON.parse(
 //     return true;
 // }
 
+exports.getAllProduct = (req, res, next) => {
+
+    res.status(200).json({
+        status: 'success',
+        products: data
+    })
+
+}
+
 
 exports.buyProduct = (req, res, next) => {
 
